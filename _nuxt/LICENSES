@@ -1,0 +1,321 @@
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+
+/*!
+ * @license twgl.js 4.4.0 Copyright (c) 2015, Gregg Tavares All Rights Reserved.
+ * Available via the MIT license.
+ * see: http://github.com/greggman/twgl.js for details
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! !./node_modules/worker-loader/dist/workers/InlineWorker.js */
+
+/*! !webpack amd options */
+
+/*! ../../common/transform.js */
+
+/*! ../../node_modules/arraybuffer-loader/lib/to-array-buffer.js */
+
+/*! ../common/minilog.js */
+
+/*! ../common/transform.js */
+
+/*! ./../../buffer/index.js */
+
+/*! ./../../process/browser.js */
+
+/*! ./../../webpack/buildin/global.js */
+
+/*! ./../node_modules/buffer/index.js */
+
+/*! ./../webpack/buildin/global.js */
+
+/*! ./Asset */
+
+/*! ./AssetType */
+
+/*! ./BuiltinHelper */
+
+/*! ./DataFormat */
+
+/*! ./FetchTool */
+
+/*! ./FetchWorkerTool */
+
+/*! ./Helper */
+
+/*! ./ProxyTool */
+
+/*! ./ScratchStorage */
+
+/*! ./WebHelper */
+
+/*! ./array.js */
+
+/*! ./console.js */
+
+/*! ./filter.js */
+
+/*! ./formatters/color.js */
+
+/*! ./formatters/minilog.js */
+
+/*! ./jquery_simple.js */
+
+/*! ./localstorage.js */
+
+/*! ./log */
+
+/*! ./transform.js */
+
+/*! ./util.js */
+
+/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.2.2/LICENSE */
+
+/*! @source http://purl.eligrey.com/github/canvas-toBlob.js/blob/master/canvas-toBlob.js */
+
+/*! arraybuffer-loader!./builtins/defaultBitmap.png */
+
+/*! arraybuffer-loader!./builtins/defaultSound.wav */
+
+/*! arraybuffer-loader!./builtins/defaultVector.svg */
+
+/*! base64-js */
+
+/*! fastestsmallesttextencoderdecoder */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! ieee754 */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! isarray */
+
+/*! js-md5 */
+
+/*! microee */
+
+/*! minilog */
+
+/*! no static exports found */
+
+/*! worker-loader?{"inline":true,"fallback":true}!./FetchWorkerTool.worker */
+
+/*!********************!*\
+  !*** ./src/log.js ***!
+  \********************/
+
+/*!**********************!*\
+  !*** ./src/Asset.js ***!
+  \**********************/
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!***********************!*\
+  !*** ./src/Helper.js ***!
+  \***********************/
+
+/*!**************************!*\
+  !*** ./src/AssetType.js ***!
+  \**************************/
+
+/*!**************************!*\
+  !*** ./src/FetchTool.js ***!
+  \**************************/
+
+/*!**************************!*\
+  !*** ./src/ProxyTool.js ***!
+  \**************************/
+
+/*!**************************!*\
+  !*** ./src/WebHelper.js ***!
+  \**************************/
+
+/*!***************************!*\
+  !*** ./src/DataFormat.js ***!
+  \***************************/
+
+/*!******************************!*\
+  !*** ./src/BuiltinHelper.js ***!
+  \******************************/
+
+/*!*******************************!*\
+  !*** ./src/ScratchStorage.js ***!
+  \*******************************/
+
+/*!********************************!*\
+  !*** ./src/FetchWorkerTool.js ***!
+  \********************************/
+
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
+
+/*!**************************************!*\
+  !*** ./node_modules/buffer/index.js ***!
+  \**************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/ieee754/index.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/isarray/index.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/microee/index.js ***!
+  \***************************************/
+
+/*!****************************************!*\
+  !*** (webpack)/buildin/amd-options.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/js-md5/src/md5.js ***!
+  \****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/base64-js/index.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/process/browser.js ***!
+  \*****************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/minilog/lib/web/array.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/minilog/lib/web/index.js ***!
+  \***********************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/minilog/lib/web/console.js ***!
+  \*************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/minilog/lib/common/filter.js ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/minilog/lib/common/minilog.js ***!
+  \****************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/minilog/lib/common/transform.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/minilog/lib/web/localstorage.js ***!
+  \******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/minilog/lib/web/jquery_simple.js ***!
+  \*******************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/minilog/lib/web/formatters/util.js ***!
+  \*********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/minilog/lib/web/formatters/color.js ***!
+  \**********************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/minilog/lib/web/formatters/minilog.js ***!
+  \************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/arraybuffer-loader/lib/to-array-buffer.js ***!
+  \****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/worker-loader/dist/workers/InlineWorker.js ***!
+  \*****************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/arraybuffer-loader!./src/builtins/defaultSound.wav ***!
+  \*************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/arraybuffer-loader!./src/builtins/defaultBitmap.png ***!
+  \**************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/arraybuffer-loader!./src/builtins/defaultVector.svg ***!
+  \**************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** ./node_modules/fastestsmallesttextencoderdecoder/EncoderDecoderTogether.min.js ***!
+  \**************************************************************************************/
+
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/worker-loader/dist/cjs.js?{"inline":true,"fallback":true}!./src/FetchWorkerTool.worker.js ***!
+  \****************************************************************************************************************/
+
+/**
+ *  StartAudioContext.js
+ *  @author Yotam Mann
+ *  @license http://opensource.org/licenses/MIT MIT License
+ *  @copyright 2016 Yotam Mann
+ */
+
+/**
+ * [js-md5]{@link https://github.com/emn178/js-md5}
+ *
+ * @namespace md5
+ * @version 0.7.3
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2014-2017
+ * @license MIT
+ */
+
+//!! Deliberately using an API that's deprecated in node.js because
+
+//!! Discussion: github.com/node-browser-compat/atob/pull/9
+
+//!! this file is for browsers and we expect them to cope with it.
+
+
+/*!
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+
+/**
+ * scratchblocks v3.5.2
+ * https://scratchblocks.github.io/
+ * Render scratchblocks code to SVG images.
+ *
+ * Copyright 2013–2022, Tim Radvan
+ * @license MIT
+ */

@@ -1,0 +1,10 @@
+{
+  "name": "gitscratch",
+  "short_name": "gitscratch",
+  "description": "Material Design 风格的 Scratch 社区前端项目，由 GitScratch 社区开发组用 ❤️ 制作。",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
