@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/users/%E4%BD%9C%E8%80%85", {data:[{}],fetch:{},mutations:void 0});

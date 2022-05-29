@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/1/commit/170ed1c", {data:[{}],fetch:{},mutations:void 0});
